@@ -1,6 +1,6 @@
-# Carro-iOS-test
+# Carro-Android-test
 
-## iOS Engineer
+## Android Engineer
 
 ### Background
 
@@ -9,7 +9,7 @@ to communicate critical and relevant information to our stakeholders and consume
 
 ### Your Task
 
-Build an iOS app to display vehicle information base on user's country. 
+Build an Android app to display vehicle information base on user's country. 
 
 Please use the data from https://gist.githubusercontent.com/heinhtetaung92/fbfd371881e6982c71971eedd5732798/raw/00e14e0e5502dbcf1ea9a2cdc44324fd3a5492e7/test.json and display it accordingly to design.
 
@@ -51,7 +51,7 @@ Please timebox yourself to a maximum of 8 hours for this activity.
 
 #### Technology
 
-You are required to use Swift.
+You are required to use Kotlin.
 
 #### Testing
 
